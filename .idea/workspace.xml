@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8660382f-1562-44eb-a736-b4357d6bec0a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PEYEeSl3N44xR7YahjTRisDcyj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bhavi/Homework/trial/com-tutorialninja-sw-4-Week-13"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TopMenuTest">
+    <configuration name="AccountLoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-tutorialninja-sw-4-Week-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialninja.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tutorialninja.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorialninja.testsuite.AccountLoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountRegisterPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-tutorialninja-sw-4-Week-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialninja.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tutorialninja.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorialninja.testsuite.AccountRegisterPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesktopPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-tutorialninja-sw-4-Week-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialninja.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tutorialninja.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorialninja.testsuite.DesktopPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LaptopAndNotebookPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-tutorialninja-sw-4-Week-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialninja.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tutorialninja.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorialninja.testsuite.LaptopAndNotebookPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopMenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="com-tutorialninja-sw-4-Week-13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tutorialninja.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tutorialninja.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.tutorialninja.testsuite.TopMenuTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TopMenuTest" />
+        <item itemvalue="TestNG.LaptopAndNotebookPageTest" />
+        <item itemvalue="TestNG.DesktopPageTest" />
+        <item itemvalue="TestNG.AccountRegisterPageTest" />
+        <item itemvalue="TestNG.AccountLoginPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8660382f-1562-44eb-a736-b4357d6bec0a" name="Changes" comment="" />
+      <created>1683023597737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683023597737</updated>
+    </task>
+    <servers />
+  </component>
+</project>
